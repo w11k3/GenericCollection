@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\bin\Debug\net8.0\GenColl.exe
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\bin\Debug\net8.0\GenColl.deps.json
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\bin\Debug\net8.0\GenColl.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\bin\Debug\net8.0\GenColl.dll
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\bin\Debug\net8.0\GenColl.pdb
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.dll
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\refint\GenColl.dll
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.pdb
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\GenColl.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\GenColl\GenColl\obj\Debug\net8.0\ref\GenColl.dll
